@@ -14,7 +14,7 @@
 
 ## Locations
 
-Deployed Application Link:
+Deployed Application Link:https://limitless-garden-69272.herokuapp.com/
 
 GitHub Repository Link:https://github.com/LauraGwendolynBurch/Budget_Story
 
