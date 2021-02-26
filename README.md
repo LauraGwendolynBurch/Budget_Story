@@ -1,16 +1,13 @@
 # Budget_Story
 
 ![License Icon](https://img.shields.io/badge/license-GPL3.0-informational.svg)
-
-An application that uses mongoose, express, compression and morgan to help you keep a budget on or offline.
-
 ## Table of Contents
 
 - [Locations](#locations)
 - [Application Summary](#application-summary)
+- [Contributors](#contributors)
 - [Image of Sample Code](##Image-of-Sample-Code)
 - [Image of Application](##Image-of-Application)
-- [Contributors](#contributors)
 - [Credits](#Credits)
 - [Questions](#Questions)
 - [License](#license)
@@ -22,17 +19,19 @@ Deployed Application Link:
 GitHub Repository Link:https://github.com/LauraGwendolynBurch/Budget_Story
 
 ## Application Summary
-
+An application that uses mongoose, express, compression and morgan to help you keep a budget on or offline.
 ## Contribution
 Clone repo | Push changes | Create Pull request
 
 ## Image of sample code
-![Sample image of code]()
+![Sample image of code](./public/images/dbCode.png)
 
-![Sample Image code]()
+![Sample Image code](./public/images/manifestCode.png)
+
+![Sample Image code](./public/images/serviceWorkerCode.png)
 
 ## Image of Application 
-![Sample Image code]()
+![Sample Image code](./public/images/sampleImage.png)
 
 ## Credits
 Anna Conover (tutor)
