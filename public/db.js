@@ -17,6 +17,12 @@ request.onsuccess = function(event) {
     console.log("Error! " + event.target.errorCode);
   };
 
+  function saveRecord(record) {
+    const transaction = db.transaction(["pending"], "readwrite");
+    const store = transaction.objectStore("pending");
+    store.add(record);
+  }
+
 function checkDatabaseIndex() {
     const transaction = db.transaction(["pending"], "readwrite");
     const store = transaction.objectStore("pending");
